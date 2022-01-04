@@ -16,7 +16,7 @@ cd /var/www/pterodactyl/resources/views/templates
 nano wrapper.blade.php
 ```
 Put your widget script in the <head> element (in between <head> and </head>).
-Your script should look something like <script async src="https://arc.io/widget.min.js#MyArcScript"></script>.
+Your script should look something like `<script async src="https://arc.io/widget.min.js#MyArcScript"></script>`.
 
 ## 3. Adding the widget to admin area
 ```
@@ -24,4 +24,4 @@ cd /var/www/pterodactyl/resources/views/layouts
 nano admin.blade.php
 ```
 Put your widget script in the <head> element (in between <head> and </head>).
-Your script should look something like <script async src="https://arc.io/widget.min.js#MyArcScript"></script>.
+Your script should look something like `<script async src="https://arc.io/widget.min.js#MyArcScript"></script>`.
