@@ -4,7 +4,6 @@ You must have an Arc.io account in order to do this.
 ## 1. Adding the service worker
 ```
 cd /var/www/pterodactyl/public
-touch arc-sw.js
 nano arc-sw.js
 ```
 Copy all text from https://arc.io/arc-sw.js and put it into the arc-sw.js file.
