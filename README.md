@@ -1,5 +1,6 @@
 # Install arc.io widget on Pterodactyl Panel
 You must have an Arc.io account in order to do this.
+This will tell you how to install arc.io on Pterdactyl Panel for free
 
 ## 1. Adding the service worker
 ```
