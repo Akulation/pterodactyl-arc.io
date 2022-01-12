@@ -25,3 +25,5 @@ nano admin.blade.php
 ```
 Put your widget script in the `<head>` element (in between `<head>` and `</head>`).
 Your script should look something like `<script async src="https://arc.io/widget.min.js#MyArcScript"></script>`.
+
+## Congrats, you should now see the arc.io icon in the bottom left of your panel!
